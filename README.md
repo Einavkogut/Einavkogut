@@ -1,4 +1,4 @@
-👋 Hi, I’m @Einavkogut a 3rd-year Computer Science student
+👋 Hi, I’m Einav kogut a 3rd-year Computer Science student
 - 🌱 I’m currently learning Devops & Kotlin
 
 <h3 align="left">Connect with me:</h3>
